@@ -1,0 +1,3 @@
+# ContentProvider
+
+通过自定义ContentProvider和自定义SQLiteOpenHelper来作为数据的提供者，以便给其他应用来跨进程访问数据和存储数据。
